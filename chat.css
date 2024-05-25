@@ -1,12 +1,3 @@
-/* Style for the title (assuming you want to style h1 elements this way) */
-h1 {
-  text-align: center;
-  font-family: Arial, sans-serif;
-  background-color: #ffff99;
-  font-weight: bold;
-  text-decoration: underline;
-  font-size: 32px;
-}
 
 body {
   background-color: #ffff99;
