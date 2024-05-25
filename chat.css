@@ -1,4 +1,12 @@
 
+head {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  text-decoration: underline;
+  font-size: 32px;
+}
+
 body {
   background-color: #ffff99;
 }
@@ -7,5 +15,3 @@ h1 {
   font-family: Arial, sans-serif;
   font-weight: bold;
   font-size: 24px;
-}
-  
