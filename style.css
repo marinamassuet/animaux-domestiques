@@ -12,10 +12,18 @@
         color: black;
         margin-left: 200px;
         margin-top: 200px;
+        font-family : Arial, sans-serif;
+        font-size : 32px;
+        color : #006600;
+        
     }
     h4 {
         color: black;
         margin-left: 200px;
         margin-top: 0px;
+         font-family : Arial, sans-serif;
+        font-size : 32px;
+        color : #006600;
+        
     }
 
