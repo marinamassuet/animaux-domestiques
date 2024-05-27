@@ -1,19 +1,20 @@
 
-    body {
-       
-        background-color: #ffff99;
-    }
-    h2 {
-        color: black;
-        text-align: center;
-        margin-top: 80px;
-    }
-    h3 {
-        color: black;
-        margin-left: 200px;
-        margin-top: 200px;
-        font-family : Arial, sans-serif;
-        font-size : 32px;
-        color : #006600;
-      }
-    
+ body {
+    font-family: Arial, sans-serif;
+    background-color: #ffff99;
+}
+
+h2 {
+    color: black;
+    text-align: center;
+    margin-top: 80px;
+}
+
+h3 {
+    margin-left: 200px;
+    margin-top: 200px;
+    font-family: Arial, sans-serif;
+    font-size: 32px;
+    color: #006600; /* Keep the desired color */
+}
+
